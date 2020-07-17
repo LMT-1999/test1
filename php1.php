@@ -1,2 +1,2 @@
 <?
-  phpinfo();
+ echo 1111;
